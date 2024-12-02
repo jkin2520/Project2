@@ -1,1 +1,13 @@
+# Gradle build files
+.gradle/
+build/
+bin/
+*.class
+
+# IntelliJ/VSCode/IDE-specific files
+.vscode/
+*.iml
+
+# System files
+.DS_Store
 *.class
